@@ -190,6 +190,6 @@ Licensed under the [Apache License 2.0](LICENSE).
 
 ## Author
 
-**Ashvanth M**
-📧 ashvanthssn@gmail.com
-🔗 [GitHub — Ashvanth-M](https://github.com/Ashvanth-M)
+**Abhishek S**
+📧 abhisakaray@gmail.com
+🔗 [GitHub — Abhishek-S](https://github.com/Abhishek090406)
